@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/o-map-viewer"]
+	path = app/src/main/assets/o-map-viewer
+	url = https://github.com/cairncoder/o-map-viewer.git

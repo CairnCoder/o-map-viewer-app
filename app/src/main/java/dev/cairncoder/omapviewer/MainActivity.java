@@ -122,7 +122,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        urWeb.loadUrl("https://cairncoder.github.io/o-map-viewer/");
+        //urWeb.loadUrl("https://cairncoder.github.io/o-map-viewer/");
+        urWeb.loadUrl("file:///android_asset/o-map-viewer/src/index.html");
+
 
     }
 
