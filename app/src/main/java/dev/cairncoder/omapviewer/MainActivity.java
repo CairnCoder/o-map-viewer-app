@@ -26,7 +26,10 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 
 
-
+// ----------------------------------------------------------------
+// Uses a submodule.
+// Update the submodule to update the internal webpages.
+// ----------------------------------------------------------------
 
 
 public class MainActivity extends AppCompatActivity {
